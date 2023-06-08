@@ -1,8 +1,5 @@
 numpy 
 pandas 
-scikit-fuzzy
-control 
-scikit-learn
 plotly.graph_objects
 matplotlib.pyplot 
 GeoJsonPopup
