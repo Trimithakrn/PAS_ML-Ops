@@ -2,8 +2,8 @@
 import warnings
 import numpy as np
 import pandas as pd
-import scikit-fuzzy as fuzz
-from scikit-fuzzy import control as ctrl
+import skfuzzy as fuzz
+from skfuzzy import control as ctrl
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error
 import plotly.graph_objects as go
