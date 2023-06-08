@@ -1,0 +1,11 @@
+numpy 
+pandas 
+skfuzzy 
+control 
+scikit-learn
+plotly.graph_objects
+matplotlib.pyplot 
+GeoJsonPopup
+GeoJsonTooltip
+folium_static
+streamlit 
