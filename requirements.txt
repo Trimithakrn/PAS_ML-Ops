@@ -1,5 +1,4 @@
-warnings
-numpy 
+=numpy 
 pandas 
 skfuzzy 
 control 
