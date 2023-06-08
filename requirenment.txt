@@ -1,8 +1,0 @@
-numpy 
-pandas 
-plotly
-matplotlib.pyplot 
-GeoJsonPopup
-GeoJsonTooltip
-folium_static
-streamlit 
