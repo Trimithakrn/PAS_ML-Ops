@@ -1,6 +1,6 @@
 numpy 
 pandas 
-skfuzzy 
+scikit-fuzzy
 control 
 scikit-learn
 plotly.graph_objects
