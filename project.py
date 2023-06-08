@@ -1,5 +1,4 @@
 # importing libraries
-import warnings
 import numpy as np
 import pandas as pd
 import skfuzzy as fuzz
@@ -12,7 +11,6 @@ import matplotlib.pyplot as plt
 from folium.features import GeoJsonPopup, GeoJsonTooltip
 from streamlit_folium import folium_static
 import streamlit as st
-warnings.filterwarnings('ignore')
 
 data = pd.read_csv("Produktivitas Pangan.csv")
 
